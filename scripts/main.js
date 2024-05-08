@@ -1,16 +1,16 @@
- const myImage = document.querySelector("img");
+ /* const myImage = document.querySelector("img");
  let myHeading = document.querySelector("h1");
 myImage.onclick = () => {
   const mySrc = myImage.getAttribute("src");
   if (mySrc === "images/pg.png") {
     myImage.setAttribute("src", "images/505.png");
     myHeading.textContent = "JOGOAT"
-  } 
+  } */
   /*
   else {
     myImage.setAttribute("src", "images\0 9AEJAZMSD06Yf-8o.jpg");
   } */
-};
+//};
 
 //let myButton = document.querySelector("button");
 
